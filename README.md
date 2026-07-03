@@ -28,7 +28,7 @@ This project analyzes sales data using Python. It performs exploratory data anal
 
 ## Files
 
-* `sales_analysis.py` - Main Python program
+* `sales.py` - Main Python program
 * `SalesDataAnalysis.xlsx` - Sales dataset
 
 ## Dataset Columns
